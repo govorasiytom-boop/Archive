@@ -1,0 +1,8 @@
+version: 1.5.6
+files:
+  - url: NV-GUARD-Setup-1.5.6.exe
+    sha512: 6rniMiZerJNBon3zaLaGRGkFh3MrGdYOjgtLf3oOKqzaXpg+3BqQYCud8pa7dR3lFcMTZcbCSCD5OvVbwd2PrQ==
+    size: 129502364
+path: NV-GUARD-Setup-1.5.6.exe
+sha512: 6rniMiZerJNBon3zaLaGRGkFh3MrGdYOjgtLf3oOKqzaXpg+3BqQYCud8pa7dR3lFcMTZcbCSCD5OvVbwd2PrQ==
+releaseDate: '2026-11-20T14:44:24.937Z'
